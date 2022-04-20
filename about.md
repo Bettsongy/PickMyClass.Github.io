@@ -12,7 +12,6 @@ Return to [Introduction](/index.md)
 - Education: University of Utah Computer Science B.S degree
 - Building exciting projects to solve real world problems
 - Root for PickMyClasses!
-- [LinkededIn] https://www.linkedin.com/in/kaijie-fu-35a0671b3/ (connect if you want to invest on PMC) 
 
 
 ### Kaijie Fu [LinkedIn](https://www.linkedin.com/in/kaijie-fu-35a0671b3/) (connect if you want to invest on PMC)
@@ -33,3 +32,6 @@ Return to [Introduction](/index.md)
 - Education: University of Utah Computer Science B.S degree
 - Seeking for opportunities, always ready to React
 - Root for PickMyClasses!
+
+<div align="center"><img width="346"  src="https://user-images.githubusercontent.com/33532467/164322726-4baeee89-fb24-43c0-bca0-bd584b25971b.png"></div>
+
