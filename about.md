@@ -1,3 +1,8 @@
+---
+layout: page
+title: "About Us"
+permalink: /about
+---
 
 ## Team Members 
 
