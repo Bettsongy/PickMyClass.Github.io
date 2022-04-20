@@ -13,6 +13,7 @@ Return to [Homepage](/index.md)
  
  5. <div align="center"><img src="https://user-images.githubusercontent.com/33532467/164291287-09630821-7b8a-4265-a2e9-13f8857f73b5.png"></div>
 
+---
 ### Home Page
  - The Home page provides recommended courses for the user according to the major and school years
 
@@ -21,9 +22,12 @@ Return to [Homepage](/index.md)
  <div align="center"><img src="https://user-images.githubusercontent.com/33532467/164290608-7a8abe52-ec5a-4fb6-8fd2-6358c33ea189.png"></div>
 
 
+---
+
 ### Course Page
 - Clicking on one of the `course card` enters the course page
 - There are four pages within each course
+
 #### Course Overview
 
 - The Course Overview page provides the basic information of the course 
@@ -32,16 +36,38 @@ Return to [Homepage](/index.md)
 
 #### Course Stats
 
+- The Course Stats displays various interesting visualizations to inform the user the overall performance of the course based on student's reviews
  <div align="center"><img src="https://user-images.githubusercontent.com/33532467/164292295-c1fbaa0a-4b5b-4569-b6e5-8e28ad2d7fa0.png"></div>
 
 
 #### Course Reviews 
 
-
+- The Course Reviews shows all the past reviews as well as the option for the user to write a review
  <div align="center"><img src="https://user-images.githubusercontent.com/33532467/164292431-82a7bbe9-e795-45f7-bef9-e128d719203f.png"></div>
 
 
 #### Course Registration 
 
-
+- The Course Registration checks if the user can register for the course
+- If the conditions are matched, the user can register various sections of the course currently offered
+ 
  <div align="center"><img src="https://user-images.githubusercontent.com/33532467/164292615-a31ee439-aaba-4619-86b2-dc1ccc102f0f.png"></div>
+
+
+
+--- 
+### Roadmap
+
+- The Roadmap page, accessed through the profile icon on the top left of the page
+- After the user declares a major, one can access the various major requirements of different categories 
+- The roadmap shows all the courses that can fullfill those categories such as writing requirement, quantitative reasoning requirements, etc 
+ 
+ <div align="center"><img src="https://user-images.githubusercontent.com/33532467/164315557-4926c7f5-4c47-421f-9c15-ba4cd3ec6d01.png"></div>
+
+
+--- 
+### History
+
+- The History page, accessed through the profile icon on the top left of the page
+- The user can view and edit the courses that the user has taken
+<div align="center"><img src="https://user-images.githubusercontent.com/33532467/164315108-d21ac2af-8df7-41f7-9f1f-0113aa4f745e.png"></div>
