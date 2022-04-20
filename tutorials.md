@@ -1,4 +1,5 @@
 ## How to Use PickMyClass : A Beginner's Guide
+Return to [Homepage](/index.md)
 
 ### Creating PickMyClass account
  1. Go to [pickmyclass](https://www.pickmyclass.com/)
