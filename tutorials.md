@@ -15,7 +15,7 @@ Return to [Introduction](/index.md)
 
 ---
 ### Home Page
- - The Home page provides recommended courses for the user according to the major and school years
+ - The Home page provides recommended courses for you according to the major and school years
 
  - You may hover onto one of the `course card` to reveal more information
  
@@ -24,7 +24,19 @@ Return to [Introduction](/index.md)
 
 ---
 
+### Search Page
+
+- Searching is easy, just type the keywords or course numbers on the search bar on top
+
+- We also provide various filtering methods to narrow down the search results
+
+ <div align="center"><img src="https://user-images.githubusercontent.com/33532467/164321841-cfcc835c-bccb-4929-be0d-881909b0b9dd.png"></div>
+
+
+---
+
 ### Course Page
+
 - Clicking on one of the `course card` enters the course page
 - There are four pages within each course
 
@@ -36,20 +48,20 @@ Return to [Introduction](/index.md)
 
 #### Course Stats
 
-- The Course Stats displays various interesting visualizations to inform the user the overall performance of the course based on student's reviews
+- The Course Stats displays various interesting visualizations to inform you the overall performance of the course based on student's reviews
  <div align="center"><img src="https://user-images.githubusercontent.com/33532467/164292295-c1fbaa0a-4b5b-4569-b6e5-8e28ad2d7fa0.png"></div>
 
 
 #### Course Reviews 
 
-- The Course Reviews shows all the past reviews as well as the option for the user to write a review
+- The Course Reviews shows all the past reviews as well as the option for you to write a review
  <div align="center"><img src="https://user-images.githubusercontent.com/33532467/164292431-82a7bbe9-e795-45f7-bef9-e128d719203f.png"></div>
 
 
 #### Course Registration 
 
-- The Course Registration checks if the user can register for the course
-- If the conditions are matched, the user can register various sections of the course currently offered
+- The Course Registration checks if you can register for the course
+- If the conditions are matched, you can register various sections of the course currently offered
  
  <div align="center"><img src="https://user-images.githubusercontent.com/33532467/164292615-a31ee439-aaba-4619-86b2-dc1ccc102f0f.png"></div>
 
@@ -59,7 +71,7 @@ Return to [Introduction](/index.md)
 ### Roadmap
 
 - The Roadmap page, accessed through the profile icon on the top left of the page
-- After the user declares a major, one can access the various major requirements of different categories 
+- After you declared a major, you can access the various major requirements of different categories 
 - The roadmap shows all the courses that can fullfill those categories such as writing requirement, quantitative reasoning requirements, etc 
  
  <div align="center"><img src="https://user-images.githubusercontent.com/33532467/164315557-4926c7f5-4c47-421f-9c15-ba4cd3ec6d01.png"></div>
@@ -69,5 +81,5 @@ Return to [Introduction](/index.md)
 ### History
 
 - The History page, accessed through the profile icon on the top left of the page
-- The user can view and edit the courses that the user has taken
+- You can view and edit the courses that you have taken
 <div align="center"><img src="https://user-images.githubusercontent.com/33532467/164315108-d21ac2af-8df7-41f7-9f1f-0113aa4f745e.png"></div>
