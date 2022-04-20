@@ -15,7 +15,7 @@ Return to [Introduction](/index.md)
 - [LinkededIn] https://www.linkedin.com/in/kaijie-fu-35a0671b3/ (connect if you want to invest on PMC) 
 
 
-### Kaijie Fu [LinkededIn] (https://www.linkedin.com/in/kaijie-fu-35a0671b3/) (connect if you want to invest on PMC)
+### Kaijie Fu [LinkededIn](https://www.linkedin.com/in/kaijie-fu-35a0671b3/) (connect if you want to invest on PMC)
 
 - Role: backend infrastructure(Go), database administration(Redis, Postgres, Neo4j, ElasticSearch), frontend(React.js)
 - Background: mainly focus on distributed system design, distributed storage, enthusiastic about building
