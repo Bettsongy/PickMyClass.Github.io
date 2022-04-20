@@ -1,4 +1,4 @@
-## PickMyClass About pages
+## Introduction
 
 Take a look at [Tutorials](/tutorials.md) and [Team](/about.md) for more information.
  
