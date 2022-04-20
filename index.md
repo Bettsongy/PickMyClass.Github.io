@@ -1,6 +1,6 @@
 ## PickMyClass About pages
 
-Take a look at [Tutorials](/Tutorials.md) and [Team](/about.md) for more information.
+Take a look at [Tutorials](/tutorials.md) and [Team](/about.md) for more information.
  
 
 
