@@ -2,6 +2,7 @@
 
 Return to [Introduction](/index.md)
 
+---
 
 <div align="center"><img width="346"  src="https://user-images.githubusercontent.com/33532467/164320751-a9906ba8-0d40-4e42-8145-b1c550bd5cc1.jpg"></div>
 
@@ -14,6 +15,8 @@ Return to [Introduction](/index.md)
 - Root for PickMyClasses!
 
 
+---
+
 ### Kaijie Fu [LinkedIn](https://www.linkedin.com/in/kaijie-fu-35a0671b3/) (connect if you want to invest on PMC)
 
 - Role: backend infrastructure(Go), database administration(Redis, Postgres, Neo4j, ElasticSearch), frontend(React.js)
@@ -24,6 +27,9 @@ Return to [Introduction](/index.md)
 - Root for PickMyClasses!
  
 
+---
+
+<div align="center"><img width="346"  src="https://user-images.githubusercontent.com/33532467/164322726-4baeee89-fb24-43c0-bca0-bd584b25971b.png"></div>
 
 ### Qianlang Chen [LinkedIn](https://www.linkedin.com/in/qianlang-chen-b5abab172/) 
 
@@ -33,5 +39,5 @@ Return to [Introduction](/index.md)
 - Seeking for opportunities, always ready to React
 - Root for PickMyClasses!
 
-<div align="center"><img width="346"  src="https://user-images.githubusercontent.com/33532467/164322726-4baeee89-fb24-43c0-bca0-bd584b25971b.png"></div>
+
 
