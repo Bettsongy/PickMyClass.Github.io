@@ -27,7 +27,7 @@ PickMyClasses provides a solution to these problems while introducing additional
 * Applying data-driven, interactive visualizations to help students visibly evaluate how great a class is for them
 * Providing review and feedback functions that promote a vibrant academic community and progress toward better education
 
-Follow our quick tutorial to give PickMyClasses a try for yourself.
+Follow our quick [Tutorials](/tutorials.md) to give PickMyClasses a try for yourself.
 
 ---
 
