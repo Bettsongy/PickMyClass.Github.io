@@ -3,22 +3,7 @@
 Return to [Introduction](/index.md)
 
 ---
-
-<div align="center"><img width="346"  src="https://user-images.githubusercontent.com/33532467/164320751-a9906ba8-0d40-4e42-8145-b1c550bd5cc1.jpg"></div>
-
-
-### Jiawen Song [LinkedIn](https://www.linkedin.com/in/jiawen-song-ab6a7915a/) 
-- Role: Front-end development (React.js, Material UI, and Apache Echarts).
-- Background: Motivated software engineer striving to learn new technologies every day
-- Education: University of Utah Computer Science B.S degree
-- Building exciting projects to solve real world problems
-- Root for PickMyClasses!
-
-
----
-<div align="center"><img width="346"  src="https://user-images.githubusercontent.com/33532467/164355271-8c8258ab-2d5a-43ee-9462-f727cfdce765.png"></div>
-
-
+<div align="center"><img width="346"  src="https://user-images.githubusercontent.com/33532467/164355755-d38e15c2-cfed-4532-8468-4fcb705c3891.png"></div>
 
 ### Kaijie Fu [LinkedIn](https://www.linkedin.com/in/kaijie-fu-35a0671b3/) (connect if you want to invest on PMC)
 
@@ -42,7 +27,25 @@ Return to [Introduction](/index.md)
 - Seeking for opportunities, always ready to React
 - Root for PickMyClasses!
 
-<div align="center"><img width="346"  src="https://user-images.githubusercontent.com/33532467/164322726-4baeee89-fb24-43c0-bca0-bd584b25971b.png"></div>
+
+---
+
+<div align="center"><img width="346"  src="https://user-images.githubusercontent.com/33532467/164320751-a9906ba8-0d40-4e42-8145-b1c550bd5cc1.jpg"></div>
+
+### Jiawen Song [LinkedIn](https://www.linkedin.com/in/jiawen-song-ab6a7915a/) 
+- Role: Front-end development (React.js, Material UI, and Apache Echarts).
+- Background: Motivated software engineer striving to learn new technologies every day
+- Education: University of Utah Computer Science B.S degree
+- Building exciting projects to solve real world problems
+- Root for PickMyClasses!
+
+
+---
+<div align="center"><img width="346"  src="https://user-images.githubusercontent.com/33532467/164355668-6fcef841-27fc-40a3-98e3-575fbcbd4509.png"></div>
+
+
+
+
 
 ### Manh Dung Tran 
 
