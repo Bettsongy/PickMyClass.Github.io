@@ -49,17 +49,19 @@ Return to [Introduction](/index.md)
 
 ### Manh Dung Tran 
 
-My name is Manh Dung Tran. My nickname is Leon. My hobbies are driving and watching movies. I enjoy
-road trips and traveling to places that I have never been before. Some movie genres that I like are
-thrillers, action, horrors, mystery, adventure, animation, and comedy. I have a High School degree and I
-am going to have a Bachelor of Science after graduating college. My major is Computer Science. Some of
-the projects that I completed or participated in are:
-- Spreadsheet: This is a desktop application that functions almost like Microsoft Excel.
-- Teaching Assistant Application: This is a web application that manages and tracks applications
-for Teaching Assistant positions. I learned the Model-View-Controller (MVC) architecture of a
-web application. I also learned how to build the front-end, how to connect the database to the
-back-end, and how the communication between the front-end and the back-end is done.
-- PickMyClasses: This is the capstone project of my team in CS 4500. It is a web application that
-allows users to review, pick, and schedule classes that they want to take. The users can see
-relevant statistics and comments of other students about the courses that they look forward to
-taking.
+Roles: Administrator Functions (React.js, Node.js, and Express.js)
+- Background: My name is Manh Dung Tran. My nickname is Leon. My hobbies are driving and
+watching movies. I enjoy road trips and traveling to places that I have never been before. Some
+movie genres that I like are thrillers, action, horrors, mystery, adventure, animation, and
+comedy.
+- Education: Bachelor of Science in Computer Science.
+- Projects:
+o Spreadsheet: This is a desktop application that functions almost like Microsoft Excel.
+o Teaching Assistant Application: This is a web application that manages and tracks
+applications for Teaching Assistant positions. I learned the Model-View-Controller (MVC)
+architecture of a web application. I also learned how to build the front-end, how to
+connect the database to the back-end, and how the communication between the frontend and the back-end is done.
+o PickMyClasses: This is the capstone project of my team in CS 4500. It is a web
+application that allows users to review, pick, and schedule classes that they want to
+take. The users can see relevant statistics and comments of other students about the
+courses that they look forward to taking.
