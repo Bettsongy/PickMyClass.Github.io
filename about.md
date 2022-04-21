@@ -30,7 +30,7 @@ Return to [Introduction](/index.md)
 
 ---
 
-<div align="center"><img width="346"  src="https://user-images.githubusercontent.com/33532467/164320751-a9906ba8-0d40-4e42-8145-b1c550bd5cc1.jpg"></div>
+<div align="center"><img width="346"  src="https://user-images.githubusercontent.com/33532467/164356118-303bdf63-419f-4709-9621-5bd25a5dd4e3.png"></div>
 
 ### Jiawen Song [LinkedIn](https://www.linkedin.com/in/jiawen-song-ab6a7915a/) 
 - Role: Front-end development (React.js, Material UI, and Apache Echarts).
