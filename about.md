@@ -16,6 +16,9 @@ Return to [Introduction](/index.md)
 
 
 ---
+<div align="center"><img width="346"  src="https://user-images.githubusercontent.com/33532467/164355271-8c8258ab-2d5a-43ee-9462-f727cfdce765.png"></div>
+
+
 
 ### Kaijie Fu [LinkedIn](https://www.linkedin.com/in/kaijie-fu-35a0671b3/) (connect if you want to invest on PMC)
 
@@ -39,5 +42,21 @@ Return to [Introduction](/index.md)
 - Seeking for opportunities, always ready to React
 - Root for PickMyClasses!
 
+<div align="center"><img width="346"  src="https://user-images.githubusercontent.com/33532467/164322726-4baeee89-fb24-43c0-bca0-bd584b25971b.png"></div>
 
+### Manh Dung Tran 
 
+My name is Manh Dung Tran. My nickname is Leon. My hobbies are driving and watching movies. I enjoy
+road trips and traveling to places that I have never been before. Some movie genres that I like are
+thrillers, action, horrors, mystery, adventure, animation, and comedy. I have a High School degree and I
+am going to have a Bachelor of Science after graduating college. My major is Computer Science. Some of
+the projects that I completed or participated in are:
+- Spreadsheet: This is a desktop application that functions almost like Microsoft Excel.
+- Teaching Assistant Application: This is a web application that manages and tracks applications
+for Teaching Assistant positions. I learned the Model-View-Controller (MVC) architecture of a
+web application. I also learned how to build the front-end, how to connect the database to the
+back-end, and how the communication between the front-end and the back-end is done.
+- PickMyClasses: This is the capstone project of my team in CS 4500. It is a web application that
+allows users to review, pick, and schedule classes that they want to take. The users can see
+relevant statistics and comments of other students about the courses that they look forward to
+taking.
